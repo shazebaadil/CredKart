@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_credkart_userprofile001.py:24 Test credkart 001 is started
+[32mINFO    [0m root:test_credkart_userprofile001.py:26 Opening browser and landing on https://automation.credence.in
+[32mINFO    [0m root:test_credkart_userprofile001.py:27 Checking url title
+[32mINFO    [0m root:test_credkart_userprofile001.py:34 Page title is correct and landed on url --> CredKart
+[32mINFO    [0m root:test_credkart_userprofile001.py:35 Taking Screenshot
+[32mINFO    [0m root:test_credkart_userprofile001.py:37 Test case 'test_credkart_url_001' is Fail

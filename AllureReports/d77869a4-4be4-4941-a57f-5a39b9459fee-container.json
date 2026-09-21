@@ -1,0 +1,1 @@
+{"uuid": "7737a83b-173e-4d28-afec-eeadf9503002", "children": ["7d082af1-df69-427c-88b1-db9f59e2bb19"], "befores": [{"name": "credkart_login_data", "status": "passed", "start": 1790007150853, "stop": 1790007150854}], "afters": [{"name": "credkart_login_data::<lambda>", "start": 1790007156158}], "start": 1790007150853, "stop": 1790007156158}

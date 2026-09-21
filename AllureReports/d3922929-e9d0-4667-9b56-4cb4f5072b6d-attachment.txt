@@ -1,0 +1,1 @@
+[32mINFO    [0m pytest_dependency:pytest_dependency.py:100 skip test_credkart_login_params_004[credkart_login_data0] because it depends on test_Credkart_URL_002

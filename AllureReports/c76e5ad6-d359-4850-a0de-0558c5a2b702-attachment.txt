@@ -1,0 +1,39 @@
+[32mINFO    [0m root:test_credkart_userprofile002.py:81 Testcase test_Credkart_login_excel_005 is started
+[32mINFO    [0m root:test_credkart_userprofile002.py:89 Opening Browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_credkart_userprofile002.py:98 Entering email: CredenceTest_5005@credence.in
+[32mINFO    [0m root:test_credkart_userprofile002.py:103 Entering password: Password@123
+[32mINFO    [0m root:test_credkart_userprofile002.py:107 Clicking on login button
+[32mINFO    [0m root:test_credkart_userprofile002.py:110 Checking login status
+[32mINFO    [0m root:test_credkart_userprofile002.py:112 login pass
+[32mINFO    [0m root:test_credkart_userprofile002.py:113 Click on menu button
+[32mINFO    [0m root:test_credkart_userprofile002.py:115 Click on logout button
+[32mINFO    [0m root:test_credkart_userprofile002.py:117 Taking screenshot for login pass
+[32mINFO    [0m root:test_credkart_userprofile002.py:126 Writing data into excel file
+[32mINFO    [0m root:test_credkart_userprofile002.py:89 Opening Browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_credkart_userprofile002.py:98 Entering email: CredenceTest_5001@credence.in
+[32mINFO    [0m root:test_credkart_userprofile002.py:103 Entering password: Password@123
+[32mINFO    [0m root:test_credkart_userprofile002.py:107 Clicking on login button
+[32mINFO    [0m root:test_credkart_userprofile002.py:110 Checking login status
+[32mINFO    [0m root:test_credkart_userprofile002.py:112 login pass
+[32mINFO    [0m root:test_credkart_userprofile002.py:113 Click on menu button
+[32mINFO    [0m root:test_credkart_userprofile002.py:115 Click on logout button
+[32mINFO    [0m root:test_credkart_userprofile002.py:117 Taking screenshot for login pass
+[32mINFO    [0m root:test_credkart_userprofile002.py:126 Writing data into excel file
+[32mINFO    [0m root:test_credkart_userprofile002.py:89 Opening Browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_credkart_userprofile002.py:98 Entering email: CredenceTest_5005@credence.in
+[32mINFO    [0m root:test_credkart_userprofile002.py:103 Entering password: Password@12345
+[32mINFO    [0m root:test_credkart_userprofile002.py:107 Clicking on login button
+[32mINFO    [0m root:test_credkart_userprofile002.py:110 Checking login status
+[32mINFO    [0m root:test_credkart_userprofile002.py:121 login fail
+[32mINFO    [0m root:test_credkart_userprofile002.py:122 Taking screenshot for login fail
+[32mINFO    [0m root:test_credkart_userprofile002.py:126 Writing data into excel file
+[32mINFO    [0m root:test_credkart_userprofile002.py:89 Opening Browser and landing on https://automation.credence.in/login
+[32mINFO    [0m root:test_credkart_userprofile002.py:98 Entering email: CredenceTest_5285@credence.in
+[32mINFO    [0m root:test_credkart_userprofile002.py:103 Entering password: Password@126
+[32mINFO    [0m root:test_credkart_userprofile002.py:107 Clicking on login button
+[32mINFO    [0m root:test_credkart_userprofile002.py:110 Checking login status
+[32mINFO    [0m root:test_credkart_userprofile002.py:121 login fail
+[32mINFO    [0m root:test_credkart_userprofile002.py:122 Taking screenshot for login fail
+[32mINFO    [0m root:test_credkart_userprofile002.py:126 Writing data into excel file
+[32mINFO    [0m root:test_credkart_userprofile002.py:141 Some testcases are failed
+[32mINFO    [0m root:test_credkart_userprofile002.py:142 Testcase test_Credkart_login_excel_005 is failed
