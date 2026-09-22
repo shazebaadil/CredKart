@@ -1,8 +1,0 @@
-[32mINFO    [0m root:test_credkart_userprofile001.py:60 Test case 'test_credkart_login_002' is started
-[32mINFO    [0m root:test_credkart_userprofile001.py:62 Launching browser and landing on https://automation.credence.in/login
-[32mINFO    [0m root:test_credkart_userprofile001.py:65 Entering email CredenceTest_5005@credence.in
-[32mINFO    [0m root:test_credkart_userprofile001.py:68 Entering password ********
-[32mINFO    [0m root:test_credkart_userprofile001.py:71 Checking login status
-[32mINFO    [0m root:test_credkart_userprofile001.py:73 Login Pass
-[32mINFO    [0m root:test_credkart_userprofile001.py:76 Testcase 'test_credkart_login_002' Pass
-[32mINFO    [0m root:test_credkart_userprofile001.py:84 Testcase 'test_credkart_login_002' completed

@@ -1,0 +1,1 @@
+pytest -v -s -n auto --html=HTMLReports/my_report_chrome.html --browser chrome
